@@ -1,0 +1,15 @@
+{
+<<<<<<< HEAD
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    }
+=======
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/nehasharma/Downloads/jsch-0.1.54.jar"
+    ]
+>>>>>>> Neha
+}
